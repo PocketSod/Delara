@@ -1,15 +1,15 @@
-# Project Brief — DeLara Consulting LLC Website
+# Project Brief — Delara Consulting LLC Website
 
-**Client:** DeLara Consulting LLC  
+**Client:** Delara Consulting LLC  
 **Type:** Static marketing site  
-**Deployment:** GitHub Pages — `https://pocketsod.github.io/DeLara/`  
-**Repo:** `https://github.com/PocketSod/DeLara` (branch: `main`)
+**Deployment:** GitHub Pages — `https://pocketsod.github.io/Delara/`  
+**Repo:** `https://github.com/PocketSod/Delara` (branch: `main`)
 
 ---
 
 ## Objective
 
-Establish a premium digital presence for DeLara Consulting LLC that communicates seniority, trust, and capability to prospective enterprise clients. The site functions as a design exploration ground — multiple landing variants exist simultaneously for selection.
+Establish a premium digital presence for Delara Consulting LLC that communicates seniority, trust, and capability to prospective enterprise clients. The site functions as a design exploration ground — multiple landing variants exist simultaneously for selection.
 
 ---
 
@@ -56,12 +56,12 @@ Folder: `brand_assests/` (intentional misspelling — do not correct)
 
 | File | Use |
 |------|-----|
-| `brand_assests/logo1.png` | Edison bulb + "DeLara Consulting, LLC" — nav logo, all pages |
+| `brand_assests/logo1.png` | Edison bulb + "Delara Consulting, LLC" — nav logo, all pages |
 | `brand_assests/Logo.png` | Same logo, concrete background — hero feature |
 | `brand_assests/Logo2.png` | Source of index.html color derivation (red/charcoal/off-white) |
 | `brand_assests/Brand-guide.png` | Full brand guide — read before design decisions |
 | `brand_assests/Brand-guide1.png` | Warm amber/gold variant guide |
-| `brand_assests/DeLara.png`, `DeLara2.png` | Wordmarks |
+| `brand_assests/Delara.png`, `Delara2.png` | Wordmarks |
 | `brand_assests/www.lilyhairstudio.ie_.png` | Layout reference for landing-4 split hero |
 
 ---

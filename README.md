@@ -1,2 +1,2 @@
-# DeLara
-DeLara Consulting LLC
+# Delara
+Delara Consulting LLC
